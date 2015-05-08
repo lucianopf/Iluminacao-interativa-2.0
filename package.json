@@ -1,7 +1,7 @@
 {
-  "name": "chat-example",
+  "name": "animacao-iluminacao 2.0",
   "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "Projeto criado com intuito de demonstrar a utilizacao do socket.io e da bibliototeca FFS.js",
   "main": "server.js",
   "repository": "",
   "author": "Luciano Franca",
